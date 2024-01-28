@@ -1,2 +1,2 @@
 "# Abortion Rates"
-About: Reads in and plots historic abortion rate data.
+About: Reads and plots historic abortion rate data.
